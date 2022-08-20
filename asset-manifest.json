@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Airnb-Experience/static/css/main.a297bc43.css",
+    "main.js": "/Airnb-Experience/static/js/main.5fbabb97.js",
+    "static/js/787.b6adcdf7.chunk.js": "/Airnb-Experience/static/js/787.b6adcdf7.chunk.js",
+    "index.html": "/Airnb-Experience/index.html",
+    "main.a297bc43.css.map": "/Airnb-Experience/static/css/main.a297bc43.css.map",
+    "main.5fbabb97.js.map": "/Airnb-Experience/static/js/main.5fbabb97.js.map",
+    "787.b6adcdf7.chunk.js.map": "/Airnb-Experience/static/js/787.b6adcdf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a297bc43.css",
+    "static/js/main.5fbabb97.js"
+  ]
+}
